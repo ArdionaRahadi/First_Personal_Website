@@ -135,7 +135,7 @@ html {
 .projects,
 .contact {
   min-height: 100vh;
-  padding: 180px 0;
+  padding: 170px 0;
   text-align: center;
 }
 
@@ -263,7 +263,7 @@ html {
 }
 
 .kontak form .input-group {
-  margin-top: 0.7em;
+  margin-top: 0.6em;
 }
 
 .kontak form .input-group input {
@@ -282,7 +282,7 @@ html {
 .kontak form .button {
   font: 1.2em "Noto Serif Vithkuqi", serif;
   padding: 0.3em;
-  margin-top: 0.5em;
+  margin-top: 0.8em;
   text-align: center;
   cursor: pointer;
   box-shadow: 2px 2px 2px black, 
