@@ -332,7 +332,7 @@ footer .socials .IG:hover {
 }
 
 footer .socials .tik-tok:hover {
-  color: #fff;
+  color: black;
   transition: 0.4s linear;
 }
 
@@ -354,7 +354,7 @@ footer .links a {
 }
 
 footer .links a:hover {
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 footer .credit {
